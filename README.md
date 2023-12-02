@@ -1,3 +1,4 @@
+![logo](https://github.com/Sa2000shi/Sa2000shi.github.io/blob/main/White%20Blue%20Pink%20Modern%20Gaming%20Channel%20Banner.png)
 <h1 align="center">Hi 👋, I'm Sakshi Sharma</h1>
 <h3 align="center">A passionate frontend developer or web developer from India</h3>
 
